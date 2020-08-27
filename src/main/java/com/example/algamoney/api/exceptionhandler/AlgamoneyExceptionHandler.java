@@ -40,6 +40,7 @@ public class AlgamoneyExceptionHandler extends ResponseEntityExceptionHandler {
 			return mensagemUsuario;
 		}
 
+		
 		public String getMensagemDesenvolvedor() {
 			return mensagemDesenvolvedor;
 		}
